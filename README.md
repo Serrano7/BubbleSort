@@ -1,2 +1,2 @@
 # BubbleSort
-BubbleSort con tiempo de ejecución
+BubbleSort using a basic example with time counting (run time)
